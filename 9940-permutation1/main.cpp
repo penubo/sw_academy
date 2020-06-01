@@ -27,7 +27,7 @@ int main() {
 		if (flag)
 			cout << "#" << t << " " << "Yes\n";
 		else
-			cout << "#" << t << " " << "No\n";
+			cout << "#" << t << " " << "No\n";d
 	}
 
 	return 0;
